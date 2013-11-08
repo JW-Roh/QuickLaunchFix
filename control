@@ -1,6 +1,6 @@
 Package: me.devbug.quicklaunchfix
 Name: QuickLaunch Fix
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 7.0)
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: ControlCenter QuickLaunch bug fix
